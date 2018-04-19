@@ -1,7 +1,4 @@
 {
-  "Parameters" : {
-    "VpcId" : "vpc-e6349983"
-  },
   "Tags" : {
     "Owner" : "sysdevct",
     "Project": "aacorne"
