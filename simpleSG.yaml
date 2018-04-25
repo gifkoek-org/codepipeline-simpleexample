@@ -1,5 +1,5 @@
 Description: >
-  Deploys a single security group TEMPLATE_PATH
+  Deploys a single security group {{ TEMPLATE_PATH }}
 
 AWSTemplateFormatVersion: '2010-09-09'
 #
