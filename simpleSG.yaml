@@ -26,7 +26,7 @@ Resources:
         - Description: Allow access from somewhere
           IpProtocol: tcp
           FromPort: 22
-          ToPort: 25
+          ToPort: 24
           CidrIp: 10.1.1.1/32
       Tags:
         - Key: Name
